@@ -5,7 +5,7 @@ I am an undergraduate student majoring in AI at the School of Data Science in Fu
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.zhihu.com/people/72-49-88-15" target="_blank">
-<img src=https://img.shields.io/badge/-%232E87FB.svg?&style=for-the-badge&logo=Zhihu&logoColor=white alt=Zhihu style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Zhihu-%232E87FB.svg?&style=for-the-badge&logo=Zhihu&logoColor=white alt=Zhihu style="margin-bottom: 5px;" />
 </a>  
 </div>
 
