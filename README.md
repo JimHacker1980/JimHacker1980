@@ -1,3 +1,14 @@
+I am an undergraduate student majoring in AI at the School of Data Science in Fudan University.When I have free time, I always study Sanskrit and various classical cultures.
+
+<div align="center">
+<a href="https://github.com/JimHacker1980" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.zhihu.com/people/72-49-88-15" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%232E87FB.svg?&style=for-the-badge&logo=zhihu&logoColor=white alt=zhihu style="margin-bottom: 5px;" />
+</a>  
+</div>
+
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <b><i class="fa-solid fa-pen-to-square" style="font-size:24px"></i> Updates:</b><br><br>
 
